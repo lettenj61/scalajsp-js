@@ -1,0 +1,10 @@
+{
+  "name": "sjs-tools-in-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "maquette": "^3.3.3"
+  }
+}
